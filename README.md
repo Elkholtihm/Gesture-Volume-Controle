@@ -40,4 +40,4 @@ The script performs the following steps:
 ## Acknowledgments
 [![Mediapipe Documentation](https://img.shields.io/badge/Mediapipe-Documentation-0A66C2?style=for-the-badge&logo=mediapipe&logoColor=white)](https://ai.google.dev/edge/mediapipe/solutions/guide) 
 [![OpenCV Documentation](https://img.shields.io/badge/OpenCV-Documentation-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
-[![pycaw Documentation](https://img.shields.io/badge/pycaw-Documentation-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AndreMiras/pycaw)
+[![pycaw Documentation](https://img.shields.io/badge/pycaw-Documentation-FF0000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AndreMiras/pycaw)
